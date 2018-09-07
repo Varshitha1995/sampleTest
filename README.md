@@ -1,3 +1,3 @@
 # sampleTest
 
-Transfer test
+instantiate test
