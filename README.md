@@ -1,3 +1,3 @@
 # sampleTest
 
-initiate
+initiate test
