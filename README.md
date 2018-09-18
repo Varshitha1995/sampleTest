@@ -1,3 +1,3 @@
 # sampleTest
 
-TransferTool test 2
+Instantiate test
