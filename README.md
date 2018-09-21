@@ -1,3 +1,3 @@
 # sampleTest
 
-Transfer test 2
+Transfer test
